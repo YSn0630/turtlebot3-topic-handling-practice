@@ -1,0 +1,4 @@
+# config/yolo_params.yaml
+waffle_v4l2:
+  ros__parameters:
+    MODEL_PATH: '/home/ysn0630/yang_ws/src/turtlebot3-topic-handling-practice/lidar_pkg/best.pt'

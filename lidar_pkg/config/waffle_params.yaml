@@ -1,0 +1,7 @@
+# config/waffle_params.yaml
+waffle_rvc:
+  ros__parameters:
+    max_velocity: 0.2
+    max_range: 3.5
+    current_linear_x: 0.12
+    turning_speed: 0.5
